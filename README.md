@@ -1,18 +1,6 @@
-# Example slideshows for Eagle.js
+# Vuex ORM Talk Slidedeck
 
-This project is bootstrapped with `@vue/cli`.
+This project is bootstrapped with `@vue/cli` and uses eagle.js for slide
+presentation/component logic.
 
-This folder/repo contains the source of a demo Eagle.JS webpage featuring a few slideshows. [Here is the page in action](https://zulko.github.io/eaglejs-demo/#/).
-
-To get started, download the zip of this repo or clone it with:
-``` bash
-git clone https://github.com/Zulko/eaglejs-demo.git
-```
-
-Install the dependencies (they will only be downloaded in a local folder):
-```bash
-cd eaglejs-demo
-npm install
-```
-
-Then run ```npm run dev``` to start the server, and open your browser at [http://localhost:8080](http://localhost:8080) to see the slideshows.
+Run `yarn dev` to start the server, and open your browser at [http://localhost:8080](http://localhost:8080) to see the slideshows.
